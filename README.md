@@ -1,6 +1,6 @@
 # javaScript-And-React-Patterns
 cover some traditional and modern design patterns,
-#module pattern
+# module pattern
 - splite code  into smaller, reusable pieces
 - makes it easy to expose and hide certain values.
 - promotes code encapsulation
